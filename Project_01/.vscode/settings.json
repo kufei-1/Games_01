@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "Project_01.sln",
+    "dotnetAcquisitionExtension.sharedExistingDotnetPath": "/usr/lib/dotnet/dotnet"
+}
